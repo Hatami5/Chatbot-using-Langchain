@@ -40,7 +40,7 @@ dotenv – Secure API key management
 
 Clone the repository:
 
-git clone https://github.com/your-username/news-research-tool.git
+git clone https://github.com/Hatami5/Chatbot-using-Langchain/blob/main/main.py
 cd news-research-tool
 
 
@@ -98,7 +98,7 @@ Deploy on Streamlit Cloud / HuggingFace Spaces
 
 👨‍💻 Author
 
-Developed by Your Name
+Developed by Your Hassan Hatami
 
 AI Developer | Data Scientist | Web Scraper | NLP Engineer
 
