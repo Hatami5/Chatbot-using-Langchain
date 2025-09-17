@@ -98,7 +98,7 @@ Deploy on Streamlit Cloud / HuggingFace Spaces
 
 👨‍💻 Author
 
-Developed by Your Hassan Hatami
+Developer name Hassan Hatami
 
 AI Developer | Data Scientist | Web Scraper | NLP Engineer
 
